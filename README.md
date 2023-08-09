@@ -85,3 +85,4 @@ Users should be able to:
 - Frontend Mentor - [@Ezekiel-Great](https://www.frontendmentor.io/profile/Ezekiel-Great)
 - Twitter - [@yeshua_codeit](https://www.twitter.com/yeshua_codeit )
 
+# nft-preview-card-component-main
