@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [ NFT-preview-card-component](https://github.com/Ezekiel-Great/nft-preview-card-component)
-- Live Site URL: [NFT-preview-card-component Live site URL](https://your-live-site-url.com)
+- Live Site URL: [NFT-preview-card-component Live site URL]( https://ezekiel-great.github.io/nft-preview-card-component-main/)
 
 ## My process
 
