@@ -137,9 +137,9 @@ footer h1 {
 
 h1 span{
   color: var(--Soft-blue);
-}
+} 
 
-span:hover {
+h1:hover {
   color: var(--Cyan);
   cursor: pointer;
 }
